@@ -105,11 +105,12 @@ body, html {
 
 /* MAIN CONTENT */
 .container {
-    padding-top: 150px;
+    padding-top: 120px;
     text-align: center;
     width: 90%;
     max-width: 800px;
     margin: auto;
+    margin-top:50px;
 }
 
 h2 {
@@ -334,6 +335,7 @@ button.loading::after {
     padding: 40px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
     text-align: left;
+    margin-top:120px;
 }
 
 .about-container h2 {
