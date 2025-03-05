@@ -45,7 +45,7 @@ An **AI-driven excuse generation tool** that formulates creative excuses based o
 
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/Kausheya2006/vlab_project.git
+git clone https://github.com/Kausheya2006/AI_Excuse_Gen.git
 cd vlab_project
 ```
 2️⃣ **Install Dependencies**
